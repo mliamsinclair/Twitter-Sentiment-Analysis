@@ -28,9 +28,10 @@ This research project focuses on applying sentiment analysis to user-generated d
 
 ### Fine-tuned DistilBERT Model
 
-- **Advanced NLP:** Leverages the distilled version of BERT, a large transformer model known for self-attention mechanisms, positional embeddings, and multihead attention, to achieve high accuracy.
-- **Transfer Learning:** Enables fine-tuning for specific tasks, such as Twitter sentiment analysis, improving model performance on specialized datasets.
-- **Comparative Analysis:** Assesses the performance of DistilBERT against CNN in terms of efficiency, robustness, generalization, and error rates to evaluate practical deployment considerations like latency and scalability.
+- **Advanced NLP:** Leverages the distilled version of BERT, a large transformer model known for self-attention mechanisms, positional embeddings, and multihead attention, to achieve high accuracy in natural language processing tasks, including sentiment analysis.
+- **Contextual Understanding:** DistilBERT captures the contextual relationships between words, allowing it to understand the nuances and subtleties of language, which is crucial for accurate sentiment analysis.
+- **NLP Attention Mechanisms:** DistilBERT utilizes attention mechanisms to focus on relevant parts of the input text, enabling it to effectively capture sentiment-related information and make accurate predictions.
+
 
 ## Live Tweet Gathering
 
