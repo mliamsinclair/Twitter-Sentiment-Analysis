@@ -9,6 +9,7 @@
 - [Models](#models)
 - [Live Tweet Gathering](#live-tweet-gathering)
 - [Progress](#progress)
+- [Documentation](#documentation)
 
 ## Introduction
 In the rapidly evolving digital age, the vast amounts of data generated online, such as social media posts, blogs, and reviews, offer invaluable insights into public sentiment. Natural Language Processing (NLP) has emerged as a key technology enabling the analysis of this data at scale, providing a means to process and understand the sentiments expressed in large datasets without manual intervention. Sentiment analysis, a technique within NLP, tags text according to its sentiment polarity, facilitating real-time, data-driven decision-making for individuals, companies, and organizations.
@@ -40,3 +41,7 @@ This section will describe the methodology for collecting real-time Twitter data
 ## Progress
 
 Currently this project is in the preliminary stages with initial research fully complete. The project is now moving into phase two, which includes the creation/training of each model.
+
+## Documentation
+
+For the current research paper, please refer to [this link](https://mliamsinclair.dev/assets/MSinclairNLPResearch-OhvTFCUO.pdf).
